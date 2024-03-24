@@ -7,4 +7,5 @@
 2113212530 วนัชพร วิเศษพลชัย<br>
 
 [Video](https://gaganpreetkaurkalsi.netlify.app/) <br>
+ไม่สามารถอัพไฟล์งานลง Github ได้ เนื่องจากขนาดไฟล์
 [Google Drive](https://drive.google.com/drive/folders/13S1iCTBTE-53Q62F7S6cRqOozNVvQyjF?usp=sharing)
